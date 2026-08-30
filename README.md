@@ -11,7 +11,7 @@
 This is an effort to publish all the work by Urud poet Faiz Ahmed Faiz on the Web. The inspiration for this project comes from [Dr. Fran Pritchett's work](https://franpritchett.com/) on [Ghalib](https://franpritchett.com/00ghalib/index.html) and [Meer](https://franpritchett.com/00garden/index.html). 
 
 
-The web in my opinion provides an ideal interface to explore poetry as it makes it very convenient to hyperlink poems containing similar themes, looking up words that one isn't familiar with is also made much more accessible and one can also add other useful resources like embedding related YouTube/MP4 videos, linking songs etc,. 
+The web in my opinion provides an ideal interface to explore poetry as it makes it very convenient to hyperlink poems containing similar themes, looking up words that one isn't familiar with, and one can also add other useful resources like embed related YouTube/MP4 videos, linking musical renditions of Ghazals/Nazams etc,. 
 
 
 Many of the literary traditions in the subcontinent like the Ghazal go back centuries and the Web as a multimedia platform can make the literature in the many languages of subcontinent more accessible to an audience that is going out of touch with this most beautiful tradition. This tool is an attempt to continue working in the footsteps of Dr. Fran and hundreds more who harbor a love for the local literarture of India/Pakistan, in all it's many languages in all their beauty. 
