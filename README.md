@@ -13,6 +13,7 @@ This is an effort to publish all the works by the Urdu poet Faiz Ahmed Faiz on t
 
 The web provides an ideal interface to explore poetry as it makes it very convenient to hyperlink poems containing similar themes, looking up words that one isn't familiar with, and one can also hyperlink additional useful resources like embed related YouTube/MP4 videos, link musical renditions of Ghazals/Nazams etc,. Utilizing all these resources can help locate a  tradition in a larger continuum of literary evolution. A point in place is the major characters in play in Ghazal tridition like Laila & Majnun, Prophet [Yusuf & Yaqub](https://franpritchett.com/00ghalib/111/111_04.html), [Farhad & Sheerin](https://franpritchett.com/00ghalib/001/1_02.html), [Mansur Hallaj](https://franpritchett.com/00garden/17c/1799/1799_07.html) and many many more. 
 
+
 Many of the poets throughout the centuries have employed these characters in their works, with each poet trying to add a different color/additional meaning to subjects that have been around for centuries. As such it can be extremely interesting when looking at a verse on [Majnun](https://franpritchett.com/00ghalib/006/6_01.html) to also look at other examples from a different poets to see how they painted the same beloved character in the different colors of their own imagination.
 
 
