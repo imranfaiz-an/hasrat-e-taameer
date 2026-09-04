@@ -46,8 +46,7 @@ nav {
 }
 
 footer {
-  position: fixed;
-  bottom: 40px;
+  margin-top: auto:
 
   display: flex;
   justify-content: space-around;
