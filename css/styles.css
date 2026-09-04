@@ -1,6 +1,7 @@
 :root {
-  --accent-color: #35748a;
-  --bg-color: #ecaed7;
+  --accent-color: #ff3215;
+  --bg-color: #ffffff;
+  --sub-accent-color: #359cff;
 }
 
 body {
@@ -77,15 +78,31 @@ footer img {
 }
 
 #main-title {
-  margin-top: 150px;
+  margin: 100px 0 0 0;
   /* border: 1px dashed; */
   
-  font-family: 'Playfair Display';
+  font-family: 'Noto Nastaliq Urdu';
   font-weight: 900;
   font-size: 48px;
-  font-style: italic;
+  /*direction: rtl;
+  font-style: italic;*/
   text-align: center;
   color: var(--accent-color);
+
+  transform: translateY(10px);
+  opacity: 0;
+
+  animation: fadeIn 1s forwards 0.25s;
+}
+
+#sub-title {
+  margin: 5px 0 25px 0;
+  
+  font-family: 'Noto Nastaliq Urdu';
+  font-weight: 400;
+  font-size: 24px;
+  text-align: center;
+  color: var(--sub-accent-color);
 
   transform: translateY(10px);
   opacity: 0;

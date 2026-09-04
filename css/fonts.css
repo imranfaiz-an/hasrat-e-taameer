@@ -1,8 +1,31 @@
-
 @font-face {
   font-display: swap;
   font-family: 'Noto Nastaliq Urdu';
   font-style: normal;
   font-weight: 400;
-  src: url('fonts/NotoNastaliqUrdu-Bold.ttf') format('ttf');
+  src: url('fonts/NotoNastaliqUrdu-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Noto Nastaliq Urdu';
+  font-style: normal;
+  font-weight: 500;
+  src: url('fonts/NotoNastaliqUrdu-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Noto Nastaliq Urdu';
+  font-style: normal;
+  font-weight: 600;
+  src: url('fonts/NotoNastaliqUrdu-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Noto Nastaliq Urdu';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/NotoNastaliqUrdu-Bold.ttf') format('truetype');
 }
